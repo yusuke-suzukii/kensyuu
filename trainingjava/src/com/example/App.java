@@ -2,6 +2,8 @@ package com.example;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello, BT/DE");
+        System.out.println("Hello, B/DE");
     }
 }
+
+//test
